@@ -1,0 +1,4 @@
+TerepiUnit
+==========
+
+Alap funkciók tesztelése
